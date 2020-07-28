@@ -1,3 +1,4 @@
 # cli-challenge
 
-No 2 dan 9 tidak selesai
+No 2 fix 
+No 9 tidak selesai
